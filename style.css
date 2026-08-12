@@ -1,1 +1,5 @@
-
+/*idk i didn't like how wide it was so let's try to shrink it*/
+.container {
+  width: 80%;        /* smaller than full screen */
+  margin: 0 auto;    /* centers it */
+}
