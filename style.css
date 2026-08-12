@@ -1,5 +1,4 @@
 /*idk i didn't like how wide it was so let's try to shrink it*/
-.container {
-  width: 75%;        /* smaller than full screen */
-  margin: 0 auto;    /* centers it */
+#banner {
+  width: 50%
 }
