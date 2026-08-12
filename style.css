@@ -1,4 +1,3 @@
-/*idk i didn't like how wide it was so let's try to shrink it*/
-#banner {
-  width: 50%
+div {
+  padding: 50px 50px 50px 50px;
 }
