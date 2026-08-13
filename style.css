@@ -27,3 +27,8 @@ h1 {
   cursor: pointer;
   background-color: darkblue;
 }
+
+.rect-btn:hover {
+  background-color: blue;
+  color: white;
+}
