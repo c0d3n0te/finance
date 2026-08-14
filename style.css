@@ -32,3 +32,17 @@ h1 {
   background-color: blue;
   color: white;
 }
+
+.three-sections {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.section {
+  background: white;
+  padding: 20px;
+  width: 30%;
+  border: 1px solid #333;
+  border-radius: 6px;
+}
