@@ -37,6 +37,8 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 20px;
+  width: 100%;
+  flex-wrap: nowrap;
 }
 
 .section {
@@ -45,4 +47,9 @@ h1 {
   width: 30%;
   border: 1px solid #333;
   border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.section * {
+  max-width: 100%;
 }
